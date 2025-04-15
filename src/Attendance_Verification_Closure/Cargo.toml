@@ -1,0 +1,10 @@
+[package]
+name = "Attendance_Verification_Closure"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "Attendance_Verification_Closure"
+path = "main.rs"
