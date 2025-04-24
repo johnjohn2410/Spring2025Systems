@@ -1,0 +1,10 @@
+[package]
+name = "attendace_multithreading"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "attendace_multithreading"
+path = "main.rs"
